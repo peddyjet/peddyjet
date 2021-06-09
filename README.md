@@ -10,7 +10,7 @@ However, I also know the basics of:
 - HTML/CSS/JS
 - C++
 - Python
-- Haskell
+- F#
 - Bash
 - Batch
 
