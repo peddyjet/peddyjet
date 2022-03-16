@@ -4,14 +4,17 @@ lewisjet is the owner of the software development firm X1 Games. His true name i
 # About Lewis Page
 Hello; I'm Lewis Page. I have been in software development since mid 2018, but I truly started early 2020. I am fluent in the languages of:
 - C#
-- Lua
 - HTML/CSS/JS
+- TypeScript
 
-However, I also know the basics of:
+However, I also know the fundamentals of:
 - Python
 - F#
 - Bash
-- Batch
+- Lua
+- Rust
+- C++/C
+- Visual Basic
 
 I mostly do game development in my spare time, however, I also work on my open source projects, such as **TLCS**.
 For my portfolio, please visit [my website](https://x1.games)
