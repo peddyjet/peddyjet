@@ -1,14 +1,14 @@
-# About Lewisjet
-lewisjet is the owner of the software development firm X1 Games. His true name is Lewis Page, and is based in Lincolnshire, UK.
+# About Peddyjet
+Peddyjet is the owner of the software development firm X1 Games. Her true name is Katie Page, and is based in Lincolnshire, UK.
 
-# About Lewis Page
-Hello; I'm Lewis Page. I have been in software development since mid 2018, but I truly started early 2020. I am fluent in the languages of:
+# About Katie Page
+Hello; I'm Katie Page. I have been in software development since mid 2018, but I truly started early 2020. I am fluent in the languages of:
 - C#
 - HTML/CSS/JS
 - TypeScript
+- Python
 
 However, I also know the fundamentals of:
-- Python
 - F#
 - Bash
 - Lua
